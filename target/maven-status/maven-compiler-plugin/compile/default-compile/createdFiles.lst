@@ -1,0 +1,5 @@
+entities\Order.class
+program\ProgramComposicao.class
+entities\Client.class
+entities\enums\OrderStatus.class
+entities\OrderItem.class
